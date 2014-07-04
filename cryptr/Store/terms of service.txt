@@ -1,0 +1,13 @@
+Cryptr Terms of Service
+This terms of service relates to your use of the Cryptr Extension (“Extension”) by Cryptr Dev (“Company”). By using the Extension, you agree and consent to the terms described below. If you do not agree, you may not use the Extension.
+
+The Company shall not and can not be required to return, produce, or make payments on any damages that claims may arise for. Potential plaintiffs agree that they may not and cannot bring any form of lawsuit against the Company for reasons arising from use of the Extension released on the Google Chrome Web Store.
+
+Information collected about you
+Cryptr Dev is committed to protecting your privacy. The Extension will not collect information about you. Data is never transmitted to anybody else. All encryption/decryption is done locally.
+
+Content
+We do not claim ownership of any data that is encrypted and/or decrypted using the Extension. Your data is owned by you, the user, and you are responsible for it.  We do not control, verify, pay for, or endorse the data that you and others transmit by using the Extension. The Company can not guarantee the safety of any data transmitted or stored with or without the Extension. We cannot be held responsible for any problems that may arise from use of the Extension.
+
+Changes to this Terms of Service
+We may occasionally update this terms of service to reflect changes in our products, services, and customer feedback. The Company welcomes your comments regarding these terms of service. If you have questions about this statement or believe that we have not adhered to it, please contact us via this email address: cryptr-dev@googlegroups.com.
